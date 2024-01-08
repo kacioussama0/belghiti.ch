@@ -71,7 +71,7 @@
 }
 .dl-slider .slider-content{
     position: relative;
-    /*padding-left: 80px;*/
+    padding-left: 80px;
 }
 .dl-slider .dl-caption.dl-border{
     background-color: transparent;
