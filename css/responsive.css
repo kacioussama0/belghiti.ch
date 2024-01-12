@@ -139,6 +139,15 @@
     .counter-wrap .col-lg-4:first-child{
         margin-bottom: 50px;
     }
+
+    .dl-slider .slider-content {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .dl-slider .dl-caption.big {
+        font-size: 18px;
+    }
 }
 /* ---- End of max-width 580px CSS ---- */
 
