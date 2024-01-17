@@ -874,7 +874,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .service-wrap{}
@@ -1068,7 +1068,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .project-2 .project-item{
@@ -1110,7 +1110,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .project-single-content{
@@ -1183,7 +1183,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .team-item{
@@ -1304,7 +1304,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 /*Dark Background*/
@@ -1564,7 +1564,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .contact-info h3{
@@ -1613,7 +1613,7 @@ ul.nav > li > a.active{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .blog-wrap{}
@@ -1906,7 +1906,7 @@ blockquote .dots{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 blockquote p{
@@ -2176,7 +2176,7 @@ blockquote span{
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bg-dots.png) 0 0 repeat;
+    background: url(../img/bg-dots.webp) 0 0 repeat;
     z-index: -1;
 }
 .sponsor-item{}
